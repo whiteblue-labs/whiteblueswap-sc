@@ -16,3 +16,11 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+## 🪪 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🏗️ Builder Contacts
+
+- 👷 Kevin Nguyen [@kevinbkdev](https://x.com/kevinbkdev)
